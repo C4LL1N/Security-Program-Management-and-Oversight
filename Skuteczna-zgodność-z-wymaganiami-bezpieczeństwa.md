@@ -6,6 +6,8 @@ Oznacza to upewnianie się czy organizacja posaida zgodność z wymaganymi regu
 
 ### - External Reporting: Wymagane przez regulacje typu GDPR, HIPAA czy PCI rocznie lub co jakiś odstęp czasu.
 
+---
+
 ## Consequences of non-compliance:
 
 ### - Reputational Damage: Prowadzi do straty transparentności oraz utraty klientów.
