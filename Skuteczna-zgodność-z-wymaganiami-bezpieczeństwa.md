@@ -2,33 +2,33 @@
 
 Oznacza to upewnianie się czy organizacja posaida zgodność z wymaganymi regulacjami(HIPAA, GDPR, PCI DSS) i czy utrzymuje transparentność z udziałowcami.
 
-### - Internal Reporting: Regularne inforamowanie udziałowców i zarządu o postawie dotyczącej regulacji i prawa.
+ - Internal Reporting: Regularne inforamowanie udziałowców i zarządu o postawie dotyczącej regulacji i prawa.
 
-### - External Reporting: Wymagane przez regulacje typu GDPR, HIPAA czy PCI rocznie lub co jakiś odstęp czasu.
+ - External Reporting: Wymagane przez regulacje typu GDPR, HIPAA czy PCI rocznie lub co jakiś odstęp czasu.
 
 ---
 
 ## Consequences of non-compliance:
 
-### - Reputational Damage: Prowadzi do straty transparentności oraz utraty klientów.
+ - Reputational Damage: Prowadzi do straty transparentności oraz utraty klientów.
 
-### - Scanction: Może prowadzić do grzywien, zakazu operacji i wyroków.
+ - Scanction: Może prowadzić do grzywien, zakazu operacji i wyroków.
 
-### - Contractual Impact/( jak dana sytuacja wpływa na ustalenia między stronami.): Nie udane spełnienie regulacji może przyczynić się do data breach, kar za umowę lub zerwanie umowy.
+ - Contractual Impact/( jak dana sytuacja wpływa na ustalenia między stronami.): Nie udane spełnienie regulacji może przyczynić się do data breach, kar za umowę lub zerwanie umowy.
 
-### - Loss of License: Nie wdrożene regulacji może prowadzić do utraty licencji i zakazu operacji.
+ - Loss of License: Nie wdrożene regulacji może prowadzić do utraty licencji i zakazu operacji.
 
 ---
 
 ## Compilance Monitoring 
 
-### - Due Diligence/ Due Care:Robienie Assesment(diligence) jak i mitigacja(Care).
+- Due Diligence/ Due Care:Robienie Assesment(diligence) jak i mitigacja(Care).
 
-### - Attestation and Acknowledgement: Dostanie formalnego potwierdzenia, że pracownicy bedą stosować się do polityki i procedury firmy.
+- Attestation and Acknowledgement: Dostanie formalnego potwierdzenia, że pracownicy bedą stosować się do polityki i procedury firmy.
 
-### Internal and External Auditors: Przyczyni się do efektywność kontroli bezpieczeństwa. Najpierw wewnętrzny audyt, potem zewnętrzny audyt.
+-Internal and External Auditors: Przyczyni się do efektywność kontroli bezpieczeństwa. Najpierw wewnętrzny audyt, potem zewnętrzny audyt.
 
-### - Automation: SIEM, SOAR, Vulnerability Scanners.
+- Automation: SIEM, SOAR, Vulnerability Scanners.
 
 ---
 
