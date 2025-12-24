@@ -26,7 +26,7 @@ Oznacza to upewnianie się czy organizacja posaida zgodność z wymaganymi regu
 
 - Attestation and Acknowledgement: Dostanie formalnego potwierdzenia, że pracownicy bedą stosować się do polityki i procedury firmy.
 
--Internal and External Auditors: Przyczyni się do efektywność kontroli bezpieczeństwa. Najpierw wewnętrzny audyt, potem zewnętrzny audyt.
+- Internal and External Auditors: Przyczyni się do efektywność kontroli bezpieczeństwa. Najpierw wewnętrzny audyt, potem zewnętrzny audyt.
 
 - Automation: SIEM, SOAR, Vulnerability Scanners.
 
